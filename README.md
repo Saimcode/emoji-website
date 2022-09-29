@@ -4,17 +4,16 @@ Copy & Paste Emoji is a web application that has a list of emojis in different c
 
 ## 🔧 Getting Started
 
-### 📍 Dependencies
+### 📍 Installation & Setup Instructions
 
-It's a web-based program so you would need the following:
+#### 1. Download this repository or clone it via Git using the commands below:
 
-* Any OS (depending on your device).
-* A browser to run the application.
+    $ git clone https://github.com/Saimcode/emoji-website.git
+    $ cd emoji-website
+    
+#### 2. Start the development server
 
-### 📍 Using the application
-
-* Link to the application: [Copy & Paste Emoji Website](https://festive-benz-932a5f.netlify.app/)
-* Or you can view the program from my portfolio: [My Portfolio](https://saimcode.github.io/myportfolio/)
+    $ npm start
 
 ## ❔ Help
 
