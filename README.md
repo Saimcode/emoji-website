@@ -11,9 +11,7 @@ Copy & Paste Emoji is a web application that has a list of emojis in different c
     $ git clone https://github.com/Saimcode/emoji-website.git
     $ cd emoji-website
     
-#### 2. Start the development server
-
-    $ npm start
+#### 2. Start the live server.
 
 ## ❔ Help
 
